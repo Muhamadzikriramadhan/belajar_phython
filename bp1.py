@@ -2,12 +2,12 @@ name = 'Muhamad Zikri Ramadhan'
 age = 20
 
 
-istri = str(input('Nama Ummi = '))
+sekolah = str(input('Nama Sekolah = '))
 
 print('Hello, My name is ' + str(name) + ', My Age is ' + str(age) + ' Years Old. i am is Abi ' + str(name))
 
-print('Ummi nya Abi Zikri Yaitu Ummi ' + istri +'.')
+print('Saya Bersekolah di ' + sekolah +'.')
 
-anak = str(input('Nama Anak = '))
+kelas = str(input('Nama kelas = '))
 
-print('Anak Abi dari ' + name + ' dan Ummi ' + istri + ', dan Anaknya Adalah ' + anak )
+print('Saya ' + name + ' sekolah di ' + sekolah + ', dan berada di kelas ' + kelas )
